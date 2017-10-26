@@ -1,0 +1,36 @@
+.nav-wrapper{
+  background-color: dodgerblue;
+}
+
+.section.no-pad-bot{
+  background-image: url("img/hero.jpg");
+}
+#download-button{
+  background-color: gold;
+}
+
+h1{
+  color: gold;
+}
+
+.page-footer.dodgerblue{
+  background-color: dodgerblue;
+}
+
+.add_to_order{
+  color: gold;
+}
+
+/* label focus color */
+.input-field.col.s6 input[text]:focus + "icon_prefix" {
+  color: dodgerblue ;
+}
+
+button{
+  background-color: gold;
+}
+   /* label underline focus color
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #000;
+  box-shadow: 0 1px 0 0 #000;
+}*/
